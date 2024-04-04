@@ -1,6 +1,5 @@
 /* Place CSS styles here */
 body{
-    background-color: rgb(228, 219, 233);
     color: rgb(8, 80, 62);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 10pt;
@@ -22,6 +21,7 @@ h2{
 h3 {font-size: 25px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:rgb(8, 80, 62);
+    margin-bottom: 0px
 
 }
 
@@ -29,26 +29,70 @@ h3 {font-size: 25px;
 
 }
 
-.expe h2 {margin-bottom: 0px;
+.expe h2 {
+    margin-bottom: 0px;
 
 }
 
 .subheader {
     font-size: 20px;
     margin-top: 2px;
+    margin-left: 325px;
 }
-.dashed{font-size: 20px; margin-top: 0px;
+.dashed{
+    font-size: 20px; 
+    margin-top: 0px;
 
 }
-.headerb{font-weight: 700;
+.headerb{
+    font-weight: 700;
     font-size: 15px;
 
 }
-.spacedmargin {margin-top: 10px;font-weight: 700;
+.spacedmargin {
+    margin-top: 10px;
+    font-weight: 700;
     font-size: 15px;
 
 }
-.bottommargin {margin-top: 10px;font-weight: 700;
+.bottommargin {
+    margin-bottom: 5px;
+    font-weight: 700;
     font-size: 15px;
 
+}
+.inner {
+    max-width: 800px;
+    margin-left:auto ; 
+    margin-right: auto;
+}
+.image {
+    width: 250px;
+    margin-left: 275px;
+
+
+}
+div {
+    width: 900px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 20px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+  
+
+}
+.name {
+    margin-left: 300px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(8, 80, 62);
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+html {
+    background: url(https://ih0.redbubble.net/image.3118935241.8346/raf,360x360,075,t,fafafa:ca443f4786.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
