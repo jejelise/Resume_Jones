@@ -1,18 +1,18 @@
 /* Place CSS styles here */
 body{
-    background-color: rgb(221, 207, 230);
-    color: rgb(14, 23, 99);
+    background-color: rgb(228, 219, 233);
+    color: rgb(8, 80, 62);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 10pt;
     
 }
 h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: color:rgb(56, 36, 70);}
+    color: color:rgb(8, 80, 62);}
     ;
     font-size: 20pt;
 }
 h2{font-size: 16pt;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-color:color:rgb(56, 36, 70);}
+color:color:rgb(8, 80, 62);}
 ;}
